@@ -5,5 +5,6 @@ A blog for communicating data-driven stories around the issue of homelessness in
 
 ## Participants
 
-- Donovan McMurray
-- [Donovan Keith](@dskeith)
+- [Donovan McMurray](https://github.com/dfmcmurray/)
+- [Donovan Keith](https://github.com/donovankeith)
+- [Maria Herzer](https://github.com/mherzer)
