@@ -1,0 +1,28 @@
+.home {
+	.post-list {
+		a:hover {
+			text-decoration: none;
+		}
+		li {
+			border: solid 1px #ddd;
+			height: 150px;
+			margin-bottom: 18px;
+			.post-info {
+				width: 73.8%;
+				padding: 20px;
+				display: inline-block;
+				.post-title {
+					display: inline-block;
+					font-size: 24px;
+					margin-right: 5px;
+				}
+			}
+			.post-thumbnail {
+				width: 20%;
+				height: 100%;
+				display: inline-block;
+				vertical-align: top;
+			}
+		}
+	}
+}
