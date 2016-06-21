@@ -1,3 +1,5 @@
+$breakpoint-small-screen: 780px;
+
 .home {
 	.post-list {
 		a:hover {
@@ -5,12 +7,16 @@
 		}
 		li {
 			border: solid 1px #ddd;
-			height: 150px;
 			margin-bottom: 18px;
-			.post-info {
-				width: 73.8%;
+			@media (min-width: $breakpoint-small-screen) {
+				height: 150px;
+			}
+			.post-info {				
 				padding: 20px;
 				display: inline-block;
+				@media (min-width: $breakpoint-small-screen) {
+  					width: 73.8%;
+				}
 				.post-title {
 					display: inline-block;
 					font-size: 24px;
@@ -22,7 +28,11 @@
 				height: 100%;
 				display: inline-block;
 				vertical-align: top;
+				@media (max-width: $breakpoint-small-screen) {
+  					display: none;
+				}
 			}
+			
 		}
 	}
 }
