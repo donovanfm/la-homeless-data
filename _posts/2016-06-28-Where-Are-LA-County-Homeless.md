@@ -7,4 +7,6 @@ blurb: "An interactive map of L.A. County's Homeless Population"
 thumbnail: where_are_they.png
 ---
 
+![Where are They Screenshot](WhereAreTheyLarge.png)
+
 The Los Angeles Times have put together an [interactive map of L.A. County's Homeless Population](http://graphics.latimes.com/homeless-los-angeles-2015/).
