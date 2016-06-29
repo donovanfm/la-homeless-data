@@ -1,9 +1,12 @@
 # la-homeless-data
 A blog for communicating data-driven stories around the issue of homelessness in the Los Angeles area.
 
-### Mission
+- [LA Homeless Data Blog](http://dfmcmurray.github.io/la-homeless-data/): The live version of this project.
+- [Project Wiki](https://github.com/dfmcmurray/la-homeless-data/wiki): An easy to edit organization hive mind for this project.
 
-### Goals
+### Mission & Goals
+
+Our goal is to address the homelessness problem in Los Angeles by educating the public about homelessness providing text articles, data visualization & infographics. We hope to eventually affect change and influence government policy to help the homeless population and address the underlying causes.
 
 ## Links
 
