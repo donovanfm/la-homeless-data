@@ -1,6 +1,8 @@
 # la-homeless-data
 A blog for communicating data-driven stories around the issue of homelessness in the Los Angeles area.
 
+Is this your first meeting with us? Start by reading our first meeting [Getting Started Guide](https://github.com/dfmcmurray/la-homeless-data/wiki/Your-First-Meeting).
+
 - [LA Homeless Data Blog](http://dfmcmurray.github.io/la-homeless-data/): The live version of this project.
 - [Project Wiki](https://github.com/dfmcmurray/la-homeless-data/wiki): An easy to edit organization hive mind for this project.
 
