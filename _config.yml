@@ -9,7 +9,7 @@
 title: Los Angeles Homeless Data
 email: dfmcmurray@gmail.com
 description: A blog for communicating data-driven stories around the issue of homelessness in the Los Angeles area.
-baseurl: "/la-homeless-data" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dfmcmurray.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
