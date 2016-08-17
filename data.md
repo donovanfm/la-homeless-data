@@ -47,3 +47,8 @@ Data Lens](https://data.lacounty.gov/Mental-Health/Department-of-Mental-Health-D
 12. [American Housing Survey (2015)](http://www.census.gov/programs-surveys/ahs/news/2015-data-release.html)
  * The results from the 2015 American Housing Survey will be released in October [of 2016].  Like the previous surveys, the 2015 American Housing Survey collected “core” data on subjects such as the amount and types of changes in the housing inventory, the physical condition of the housing inventory, the characteristics of the occupants, housing costs for owners and renters, the persons eligible for and beneficiaries of assisted housing, remodeling and repair frequency, reasons for moving, the number and characteristics of vacancies, and characteristics of resident's neighborhood.
  * In addition to the “core” data, the AHS collected “topical” data using a series of topical modules.  The topics included 1) health and safety hazards in the home, 2) food insecurity, 3) the use of housing counseling services, and 4) the presence of arts and cultural opportunities in the community.
+
+
+## Forks of this Repo:
+
+* Isaac Moore has forked this repo, and posted [some useful datasets](https://github.com/isaacmoore/la-homeless-data/tree/gh-pages/data).
